@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name tomaskovacik)(type Github)(uri https://github.com/tomaskovacik/kicad-library)(options "")(descr ""))
+  (lib (name bluetooth-speaker-n-model-train)(type KiCad)(uri ${KIPRJMOD}/bluetooth-speaker-n-model-train.pretty)(options "")(descr ""))
+)
